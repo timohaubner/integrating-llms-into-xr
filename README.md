@@ -1,4 +1,4 @@
-# Integrating Large Language Models into Extended Reality (XR) – A Literature Review
+# Integrating Large Language Models into Extended Reality – A Literature Review
 
 Seminar paper for the course Recent Advances in Human Computer Interaction (TUM) reviewing
 36 ACM/IEEE papers since 2023 on the integration of LLMs into XR.
