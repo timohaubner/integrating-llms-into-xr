@@ -30,7 +30,7 @@ To provide an overview of this emerging field, this review
 analyzes a systematic selection of 36 studies published since
 2023 in ACM and IEEE venues. These works are categorized
 into three thematic clusters: LLMs for Generative Content
-Creation and Manipulation, Embodied LLM Agents, and LLMpowered
+Creation and Manipulation, Embodied LLM Agents, and LLM powered
 Assistive Systems. Within each cluster, key approaches,
 technologies, and results are examined and compared. Building
 on this analysis, the review identifies cross-cutting challenges
